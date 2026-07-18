@@ -4,7 +4,7 @@
 
 **Prosty, szybki klient VPN dla Windows 10/11 — z obsługą protokołów OpenVPN i SoftEther.**
 
-![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20(x64)-0078D6?logo=windows&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20(x64-only)-0078D6?logo=windows&logoColor=white)
 ![Protocols](https://img.shields.io/badge/VPN-OpenVPN%20%2B%20SoftEther-blue)
 ![Version](https://img.shields.io/badge/version-2.0.1-success)
 
@@ -83,7 +83,7 @@ To wszystko. Aplikację możesz schować do zasobnika (zamknięcie okna) i ustaw
 | Element | Wymaganie |
 |---|---|
 | System | Windows 10 (1809+) lub Windows 11 |
-| Architektura | x64 |
+| Architektura | x64-only |
 | Uprawnienia | Administrator (instalacja sterowników, tworzenie adaptera, routing) |
 | Sieć | Dostęp do internetu + aktywne konto na [polski-vpn.pl](https://polski-vpn.pl/) |
 
