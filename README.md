@@ -6,7 +6,7 @@
 
 ![Platform](https://img.shields.io/badge/platform-Windows%2010%20%7C%2011%20(x64)-0078D6?logo=windows&logoColor=white)
 ![Protocols](https://img.shields.io/badge/VPN-OpenVPN%20%2B%20SoftEther-blue)
-![Version](https://img.shields.io/badge/version-2.0.2-success)
+![Version](https://img.shields.io/badge/version-2.0.3-success)
 
 <a href="../../releases/latest">
   <img alt="Pobierz instalator"
