@@ -32,7 +32,7 @@
 |---|---|
 | 🧑‍💻 Użytkownicy usługi **Polski VPN** | Dedykowany, lekki klient serwerów Polski VPN |
 | 🖥️ Użytkownicy **Windows 10/11** | Natywna aplikacja desktopowa |
-| 🔒 Szukający alternatywy dla OpenVPN | Klient SoftEether na Windows |
+| 🔒 Szukający alternatywy dla OpenVPN | Klient SoftEther na Windows |
 | 🛡️ Omijający blokady VPN | SoftEther over HTTPS/TLS |
 
 ---
@@ -64,7 +64,7 @@
 | Szyfrowanie | AES-256-GCM / AES-128-* | TLS 1.2 (AES) |
 | Uwierzytelnianie | login/hasło | login/hasło |
 | Statystyki RX/TX | ✅ | ✅ |
-
+| Kill-switch | ✅ | ✅ |
 
 ---
 
