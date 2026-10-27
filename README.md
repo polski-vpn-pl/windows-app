@@ -13,6 +13,8 @@
        src="https://img.shields.io/badge/⬇%20Pobierz-instalator%20.exe-0078D6?style=for-the-badge">
 </a>
 
+![Home](polski-vpn.pl%20windows.png)
+
 </div>
 
 ---
