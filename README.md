@@ -61,7 +61,7 @@
 | Sterownik | TAP | wirtualny adapter SoftEether |
 | Szyfrowanie | AES-256-GCM / AES-128-* | TLS 1.2 (AES) |
 | Uwierzytelnianie | login/hasło | login/hasło |
-| Statystyki RX/TX | ✅ | 🚧 |
+| Statystyki RX/TX | ✅ | ✅ |
 
 
 ---
