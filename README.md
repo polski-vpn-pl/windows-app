@@ -71,9 +71,9 @@
 ## 📥 Instalacja (skrócona)
 
 1. Pobierz **`PolskiVPN-Setup-2.5.0.exe`** z zakładki [Releases](../../releases/latest).
-2. Uruchom instalator. Zainstaluje aplikację oraz — w razie potrzeby — **OpenVPN** i **SoftEther VPN Client** wraz ze sterownikiem adaptera (jeden klik).
-   > Niepodpisany instalator: jeśli SmartScreen ostrzeże — *Więcej informacji → Uruchom mimo to*.
-3. Uruchom **Polski VPN** (Menu Start). Przy starcie kliknij **Tak** w oknie UAC — VPN wymaga uprawnień administratora.
+2. Uruchom instalator. Zainstaluje aplikację oraz w razie potrzeby **OpenVPN** i **SoftEther VPN Client** wraz ze sterownikiem adaptera (jeden klik).
+   > Niepodpisany instalator: jeśli SmartScreen ostrzeże - *Więcej informacji → Uruchom mimo to*.
+3. Uruchom **Polski VPN** (Menu Start). Przy starcie kliknij **Tak** w oknie UAC - VPN wymaga uprawnień administratora.
 4. W aplikacji: wybierz **protokół** i **serwer**, wpisz **login i hasło** otrzymane po zakupie usługi, kliknij **POŁĄCZ**.
 
 To wszystko. Aplikację możesz schować do zasobnika (zamknięcie okna) i ustawić autostart w *Ustawieniach*.
