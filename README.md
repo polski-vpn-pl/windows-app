@@ -21,7 +21,7 @@
 
 ## ✨ W skrócie
 
-**Polski VPN dla Windows** to desktopowy klient VPN dla Windows 10/11. Łączy się z serwerami usługi <a href="https://polski-vpn.pl/">*Polski-VPN.pl*</a> przy użyciu jednego z dwóch protokołów: **OpenVPN** lub **SoftEther VPN** (TCP over HTTPS/TLS). Interfejs jest w języku polskim i minimalistyczny — wybierz serwer, wpisz dane dostępowe które otrzymałeś po zakupie usługi i połącz się. Aplikacja chowa się do zasobnika systemowego i może uruchamiać się przy starcie Windows.
+**Polski VPN dla Windows** to desktopowy klient VPN dla Windows 10/11. Łączy się z serwerami usługi <a href="https://polski-vpn.pl/">*Polski-VPN.pl*</a> przy użyciu jednego z dwóch protokołów: **OpenVPN** lub **SoftEther VPN** (TCP over HTTPS/TLS). Wybierz serwer, wpisz dane dostępowe które otrzymałeś po zakupie usługi i połącz się. Aplikacja chowa się do zasobnika systemowego i może uruchamiać się przy starcie Windows.
 
 
 ---
